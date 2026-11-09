@@ -1,0 +1,8 @@
+.DS_Store
+target/
+**/target/
+*.simlog
+*.log
+statement*.json
+.a4-benchmark.toml
+CS356-*.pdf
